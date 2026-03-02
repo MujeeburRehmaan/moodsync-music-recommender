@@ -1,0 +1,5 @@
+{
+  "name": "Mood-Based Music Recommender",
+  "description": "A dynamic music discovery app that recommends Spotify tracks based on your current mood with interactive animations and theme support.",
+  "requestFramePermissions": []
+}
